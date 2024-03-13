@@ -2,7 +2,7 @@
 @import './globals.css';
 
 @import './components/navbar.css';
-@import './components/header.css';
+@import 'css/Components/header.css';
 @import './components/about.css';
 @import './components/skills.css';
 @import './components/projects.css';
