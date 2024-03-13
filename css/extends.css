@@ -1,9 +1,9 @@
 @import './variables.css';
 @import './globals.css';
 
-@import './components/navbar.css';
+@import 'css/Components/navbar.css';
 @import 'css/Components/header.css';
-@import './components/about.css';
-@import './components/skills.css';
-@import './components/projects.css';
-@import './components/footer.css';
+@import 'css/Components/about.css';
+@import 'css/Components/skills.css';
+@import 'css/Components/projects.css';
+@import 'css/Components/footer.css';
